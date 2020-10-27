@@ -1,0 +1,196 @@
+
+        a:link   {color:white; 
+                    font-size: 1.5em;}
+        a:visited{color: white;}
+        a:hover  {color:navy; 
+            outline:10px solid #7bb230;}
+        a:focus  {
+            outline: 10px solid #7bb230;}
+#one{color:navy;
+    background-color:floralwhite;
+    font-size:2.0em;
+        font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Satisfy', cursive;padding:40px;
+    margin:40px;}
+#two{color:navy;
+    background-color:floralwhite;
+    font-size:1.8em;    
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Satisfy', cursive;
+    padding:40px;
+    margin:40px;}
+#three{color:navy;
+    background-color:floralwhite;
+    font-size:1.6em;    
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Satisfy', cursive;
+    padding:40px;
+    margin:40px;}
+#one1{color:navy;
+    background-color:floralwhite;
+    font-size:2.0em;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Satisfy', cursive;padding:40px;
+    margin:40px;}
+#two2{color:navy;
+    background-color:floralwhite;
+    font-size:1.8em;    
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Satisfy', cursive;
+    padding:40px;
+    margin:40px;}
+#three3{color:navy;
+    background-color:floralwhite;
+    font-size:1.6em;    
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Satisfy', cursive;
+    padding:40px;
+    margin:40px;}
+
+#blog{color:navy;
+    background-color:floralwhite;
+    font-size:1.6em;    
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Satisfy', cursive;
+    padding:40px;
+    margin:10px;}
+#blog1{color:navy;
+    background-color:floralwhite;
+    font-size:1.6em;    
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Satisfy', cursive;
+    padding:40px;
+    margin:40px;}
+
+img{border: solid 2px;
+    border-left:solid 5px;
+    border-color:#7bb230;
+    margin-left:10px;}
+
+
+header{
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Satisfy', cursive;
+    border: solid 5px;
+    border-bottom:none;
+    border-color:#7bb230;
+    border-radius: 20px;
+    margin-top:5px;
+    padding:10px;
+    padding-bottom: 0px;
+    background-image: url(../Images/logo.jpg);
+    background-size: 1600px 700px;
+    background-repeat: no-repeat;}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-stretch: expanded;
+    text-align: center;
+    }
+
+
+
+h3{text-align:left;
+    margin-left:200px;}
+
+nav ul{     color:white;
+            text-align: center;
+            margin-left:10px;
+            margin-right:10px;
+            padding:10px;
+            border: solid 5px;
+            border-top: none;
+            border-bottom:none;
+            border-color:#7bb230;
+    background-image: url(../Images/Opacity%20box.png);}
+
+main nav ul li{ 
+                display: inline;
+                padding-top:13px;
+                padding-bottom:5px;
+                padding-right:5px;
+                padding-left:5px;
+                margin-left:10px;
+    margin-right:15px;}
+
+section{margin-top:23px;
+            margin-right:80px;}
+
+ #howto p{
+    text-decoration: none;
+    list-style: none;
+    float:right;
+    padding:80px;
+    margin:10px;
+    background-image: url(../Images/1Green%20Opacity%20box.png);
+    background-size:200px 80px;
+    background-repeat: no-repeat;
+    background-position: center;}
+
+
+li a    {display:inline;
+        text-decoration: none;
+            width: 12em;
+            height:10em;}
+
+li a:hover{background-color:#7bb230;
+            border:double .3px;
+            border-color: white;}
+h2{padding-right:10px;}
+
+
+
+#teeth{
+        background-image: url(../Images/teeth2.jpg);
+        background-size: 1176px 500px;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding-top:450px;
+            border: solid 5px;
+            border-top: none;
+            border-bottom:none;
+            border-color:#7bb230;
+            border-radius:0px;
+            margin-left:10px;
+            margin-right:10px;}
+
+
+    
+body{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    background-color:white;
+    background-position: center;
+    padding:10px;
+    margin-left:10px;
+    margin-right:10px;}
+
+
+
+footer{padding-top:1px;
+            clear:both;
+}
+
+footer nav ul li{ 
+                display: inline;
+                padding-top:13px;
+                padding-bottom:5px;
+                padding-right:5px;
+                padding-left:5px;
+                margin-left:5px;
+                margin-right:0px;
+                /*border-right: dotted thick;
+                border-color: #7bb230;*/
+                }
+footer #footnav ul {border-bottom:solid 5px;
+                border-radius:5px;
+                border-color:#7bb230;}
