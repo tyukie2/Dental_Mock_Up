@@ -110,7 +110,7 @@ nav ul{     color:white;
             border-top: none;
             border-bottom:none;
             border-color:#7bb230;
-    background-image: url(../Images/Opacity%20box.png);}
+    background-image: url(./Images/Opacity%20box.png);}
 
 main nav ul li{ 
                 display: inline;
@@ -130,7 +130,7 @@ section{margin-top:23px;
     float:right;
     padding:80px;
     margin:10px;
-    background-image: url(../Images/1Green%20Opacity%20box.png);
+    background-image: url(./Images/1Green%20Opacity%20box.png);
     background-size:200px 80px;
     background-repeat: no-repeat;
     background-position: center;}
